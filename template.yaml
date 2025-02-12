@@ -335,7 +335,7 @@ Resources:
           - Name: email
             AttributeDataType: String
             Mutable: false
-            Required: true
+            Required: false
           - Name: name
             AttributeDataType: String
             Mutable: true
